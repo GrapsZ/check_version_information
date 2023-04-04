@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Fix the locales files, update config file."}
+{"version":"1.0.2", "notes":"Client code optimization."}
