@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"Fix alls issues, changing speedcam object, optimization."}
+{"version":"1.1.1", "notes":"Handle speed loop optimized."}
