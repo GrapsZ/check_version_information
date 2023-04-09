@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"First optimized realease."}
+{"version":"1.2.1", "notes":"Correct an error with the use qb management option."}
