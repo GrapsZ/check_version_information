@@ -1,1 +1,1 @@
-{"version":"1.2.1", "notes":"Correct an error with the use qb management option."}
+{"version":"1.2.2", "notes":"Correct an error with the use qb management option.", "files": "config.lua, sv_main.lua, sv_lib.lua"}
