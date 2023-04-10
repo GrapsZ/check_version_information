@@ -1,1 +1,1 @@
-{"version":"1.2.2", "notes":"Correct an error with the use qb management option.", "files": "config.lua, sv_main.lua, sv_lib.lua"}
+{"version":"1.2.3", "notes":"Version checker optimization and fix an error in the translates files.", "files": "fr.lua, en.lua, sv_lib.lua, fxmanifest.lua"}
