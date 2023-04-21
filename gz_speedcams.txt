@@ -1,1 +1,1 @@
-{"version":"1.2.3", "notes":"Version checker optimization and fix an error in the translates files.", "files": "fr.lua, en.lua, sv_lib.lua, fxmanifest.lua"}
+{"version":"1.2.4", "notes":"ox_target compatibility.", "files": "cl_main.lua, fxmanifest.lua"}
