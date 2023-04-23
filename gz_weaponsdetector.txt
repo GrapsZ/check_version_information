@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"first release.", "files":"all files"}
+{"version":"1.0.2", "notes":"pulse blip & alarm added.", "files":"all files"}
