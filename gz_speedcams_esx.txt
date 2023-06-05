@@ -1,1 +1,1 @@
-{"version":"1.3.0", "notes":"drawtext options, more config, optimization.", "files":"all files"}
+{"version":"1.4.0", "notes":"add old ESX compatibility", "files":"sv_main, sv_lib, cl_main, config.lua"}
