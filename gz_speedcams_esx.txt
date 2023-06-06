@@ -1,1 +1,1 @@
-{"version":"1.4.0", "notes":"add old ESX compatibility", "files":"sv_main, sv_lib, cl_main, config.lua"}
+{"version":"1.4.1", "notes":"Fix an error in server side", "files":"sv_main.lua"}
