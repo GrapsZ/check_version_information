@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Little fix.", "files":"cl_main.lua"}
+{"version":"1.1.2", "notes":"Hookers detection adjustements.", "files":"cl_main.lua, config.lua"}
