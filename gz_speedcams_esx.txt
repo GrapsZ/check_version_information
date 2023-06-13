@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"Fix an error in server side", "files":"sv_main.lua"}
+{"version":"1.4.2", "notes":"Fix an variable error", "files":"cl_main.lua, fxmanifest.lua"}
